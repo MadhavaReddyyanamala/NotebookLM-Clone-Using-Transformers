@@ -78,18 +78,8 @@ The project follows a structured NLP pipeline:
 
 ## 📁 Project Structure
 
-```
-text_summarization_project/
-│
-├── train.py               # Model fine-tuning script
-├── inference.py           # Summary generation script
-├── dataset.csv            # Full raw dataset
-├── train.csv              # Training split
-├── valid.csv              # Validation split
-├── test.csv               # Test split
-├── final-summarizer/      # Saved fine-tuned model
-└── README.md              # Project documentation
-```
+<img width="626" height="686" alt="image" src="https://github.com/user-attachments/assets/14b52d24-df7a-4dff-bc57-5190d3652f9d" />
+
 
 ---
 
