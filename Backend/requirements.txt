@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+transformers<5
+torch
+sentencepiece
+pymupdf
