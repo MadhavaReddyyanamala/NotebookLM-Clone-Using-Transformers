@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat&logo=huggingface)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=flat&logo=pytorch)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+
 
 ---
 
